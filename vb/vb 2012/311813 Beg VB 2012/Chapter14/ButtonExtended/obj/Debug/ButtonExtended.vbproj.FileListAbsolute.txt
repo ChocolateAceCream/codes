@@ -1,0 +1,8 @@
+C:\Users\bryan_000\Documents\WROX\WROX\VB_2012\99 Code for finalization\311813 Beg VB 2012\Chapter14\ButtonExtended\bin\Debug\ButtonExtended.dll
+C:\Users\bryan_000\Documents\WROX\WROX\VB_2012\99 Code for finalization\311813 Beg VB 2012\Chapter14\ButtonExtended\bin\Debug\ButtonExtended.pdb
+C:\Users\bryan_000\Documents\WROX\WROX\VB_2012\99 Code for finalization\311813 Beg VB 2012\Chapter14\ButtonExtended\bin\Debug\ButtonExtended.xml
+C:\Users\bryan_000\Documents\WROX\WROX\VB_2012\99 Code for finalization\311813 Beg VB 2012\Chapter14\ButtonExtended\obj\Debug\ButtonExtended.Resources.resources
+C:\Users\bryan_000\Documents\WROX\WROX\VB_2012\99 Code for finalization\311813 Beg VB 2012\Chapter14\ButtonExtended\obj\Debug\ButtonExtended.vbproj.GenerateResource.Cache
+C:\Users\bryan_000\Documents\WROX\WROX\VB_2012\99 Code for finalization\311813 Beg VB 2012\Chapter14\ButtonExtended\obj\Debug\ButtonExtended.dll
+C:\Users\bryan_000\Documents\WROX\WROX\VB_2012\99 Code for finalization\311813 Beg VB 2012\Chapter14\ButtonExtended\obj\Debug\ButtonExtended.xml
+C:\Users\bryan_000\Documents\WROX\WROX\VB_2012\99 Code for finalization\311813 Beg VB 2012\Chapter14\ButtonExtended\obj\Debug\ButtonExtended.pdb

@@ -1,0 +1,10 @@
+left=Hash.new
+left["a"]=123
+left["aa"]=456
+  p left
+s=left.shift
+p s
+  if s[0][0].length<=1
+    puts"single"
+    
+  end

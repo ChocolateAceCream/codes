@@ -1,0 +1,31 @@
+require "socket"
+class Server
+    def initialize(ip,port)
+        puts "Server Start!!"
+        @server = TCPServer.open(ip,port)
+        @connections = Hash.new
+        @rooms = Hash.new
+        @clients = Hash.new
+        @connections[:server] = @server
+        @connections[:rooms] = @rooms
+        @connections[:clients] = @clients
+    end
+
+    def run
+        loop {
+            Thread.start(@server.accept) do |client|
+                puts "New client connected."
+                nickname = client.gets.chomp.to_sym
+
+                puts "#{nickname} #{client}"
+                @connections[:clients][nickname] = client
+                client.puts "Hi there"
+                client.print "\n"
+                client.close
+            end
+        }.join
+    end
+end
+
+server = Server.new("127.0.0.1",8080)
+server.run

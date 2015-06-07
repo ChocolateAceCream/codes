@@ -1,0 +1,14 @@
+C:\Users\bryan_000\Documents\WROX\WROX\VB_2012\99 Code for finalization\311813 Beg VB 2012\Chapter14\Controls\bin\Debug\Controls.exe.config
+C:\Users\bryan_000\Documents\WROX\WROX\VB_2012\99 Code for finalization\311813 Beg VB 2012\Chapter14\Controls\bin\Debug\Controls.exe
+C:\Users\bryan_000\Documents\WROX\WROX\VB_2012\99 Code for finalization\311813 Beg VB 2012\Chapter14\Controls\bin\Debug\Controls.pdb
+C:\Users\bryan_000\Documents\WROX\WROX\VB_2012\99 Code for finalization\311813 Beg VB 2012\Chapter14\Controls\bin\Debug\Controls.xml
+C:\Users\bryan_000\Documents\WROX\WROX\VB_2012\99 Code for finalization\311813 Beg VB 2012\Chapter14\Controls\bin\Debug\MyNamespaceControl.dll
+C:\Users\bryan_000\Documents\WROX\WROX\VB_2012\99 Code for finalization\311813 Beg VB 2012\Chapter14\Controls\bin\Debug\MyNamespaceControl.pdb
+C:\Users\bryan_000\Documents\WROX\WROX\VB_2012\99 Code for finalization\311813 Beg VB 2012\Chapter14\Controls\bin\Debug\MyNamespaceControl.xml
+C:\Users\bryan_000\Documents\WROX\WROX\VB_2012\99 Code for finalization\311813 Beg VB 2012\Chapter14\Controls\obj\Debug\Controls.vbprojResolveAssemblyReference.cache
+C:\Users\bryan_000\Documents\WROX\WROX\VB_2012\99 Code for finalization\311813 Beg VB 2012\Chapter14\Controls\obj\Debug\Controls.Form1.resources
+C:\Users\bryan_000\Documents\WROX\WROX\VB_2012\99 Code for finalization\311813 Beg VB 2012\Chapter14\Controls\obj\Debug\Controls.Resources.resources
+C:\Users\bryan_000\Documents\WROX\WROX\VB_2012\99 Code for finalization\311813 Beg VB 2012\Chapter14\Controls\obj\Debug\Controls.vbproj.GenerateResource.Cache
+C:\Users\bryan_000\Documents\WROX\WROX\VB_2012\99 Code for finalization\311813 Beg VB 2012\Chapter14\Controls\obj\Debug\Controls.exe
+C:\Users\bryan_000\Documents\WROX\WROX\VB_2012\99 Code for finalization\311813 Beg VB 2012\Chapter14\Controls\obj\Debug\Controls.xml
+C:\Users\bryan_000\Documents\WROX\WROX\VB_2012\99 Code for finalization\311813 Beg VB 2012\Chapter14\Controls\obj\Debug\Controls.pdb

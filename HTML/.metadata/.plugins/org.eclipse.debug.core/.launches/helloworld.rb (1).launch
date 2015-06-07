@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.eclipse.dltk.ruby.testing.launchConfig">
+<stringAttribute key="mainScript" value="helloworld.rb"/>
+<stringAttribute key="nature" value="org.eclipse.dltk.ruby.core.nature"/>
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
+<listEntry value="/gg"/>
+</listAttribute>
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
+<listEntry value="4"/>
+</listAttribute>
+<stringAttribute key="org.eclipse.dltk.testing.CONTAINER" value=""/>
+<stringAttribute key="org.eclipse.dltk.testing.engineId" value="org.eclipse.dltk.ruby.testing.rspec"/>
+<stringAttribute key="project" value="gg"/>
+</launchConfiguration>

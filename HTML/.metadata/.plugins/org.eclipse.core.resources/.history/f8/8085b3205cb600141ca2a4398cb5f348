@@ -1,0 +1,40 @@
+class Eco_system
+
+
+#  array = Array.new(system_size)
+ 
+  def get_input
+      puts"Please input the size of eco-system => "
+      @system_size=gets.to_i
+      puts"Please input the initial number of bears in the system => "
+      @initial_number_of_bear = gets.to_i
+      puts"Please input the initial number of bears in the system => "
+      @initial_number_of_fish = gets.to_i
+      while @initial_number_of_fish+@initial_number_of_bear>@system_size 
+              puts "wrong input, try one more time"
+              puts"Please re-input the size of eco-system => "
+              @system_size=gets.to_i
+              puts"Please re-input the initial % of bears in the system => "
+              @initial_number_of_bear = gets.to_i
+              puts"Please re-input the initial % of bears in the system => "
+              @initial_number_of_fish = gets.to_i
+      end
+      @initial_percent_of_bear = Float(@initial_number_of_bear)/@system_size
+      @initial_percent_of_fish = @initial_number_of_fish/@system_size
+      
+  end
+  
+  def output
+      puts @initial_percent_of_bear
+      puts @initial_percent_of_fish
+      puts @system_size
+      
+  end
+
+end
+
+test = Eco_system.new
+test.get_input
+test.output
+
+    

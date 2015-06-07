@@ -1,0 +1,19 @@
+@pi=Math::PI
+
+
+class Area
+      def self.new(shape)
+        if shape=='Circle'
+            puts "input r"
+            r=get.chomp
+            Circle.new(r)
+        end
+      end
+end
+
+class Circle
+      include Area
+end
+
+
+Area.Vehicle.new('Circle')

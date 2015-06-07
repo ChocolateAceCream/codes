@@ -1,0 +1,9 @@
+C:\Users\Di\Desktop\vb 2012\311813 Beg VB 2012\Chapter11\Objects\bin\Debug\Objects.exe.config
+C:\Users\Di\Desktop\vb 2012\311813 Beg VB 2012\Chapter11\Objects\bin\Debug\Objects.exe
+C:\Users\Di\Desktop\vb 2012\311813 Beg VB 2012\Chapter11\Objects\bin\Debug\Objects.pdb
+C:\Users\Di\Desktop\vb 2012\311813 Beg VB 2012\Chapter11\Objects\bin\Debug\Objects.xml
+C:\Users\Di\Desktop\vb 2012\311813 Beg VB 2012\Chapter11\Objects\obj\Debug\MyCodeWidgets.Resources.resources
+C:\Users\Di\Desktop\vb 2012\311813 Beg VB 2012\Chapter11\Objects\obj\Debug\Objects.vbproj.GenerateResource.Cache
+C:\Users\Di\Desktop\vb 2012\311813 Beg VB 2012\Chapter11\Objects\obj\Debug\Objects.exe
+C:\Users\Di\Desktop\vb 2012\311813 Beg VB 2012\Chapter11\Objects\obj\Debug\Objects.xml
+C:\Users\Di\Desktop\vb 2012\311813 Beg VB 2012\Chapter11\Objects\obj\Debug\Objects.pdb

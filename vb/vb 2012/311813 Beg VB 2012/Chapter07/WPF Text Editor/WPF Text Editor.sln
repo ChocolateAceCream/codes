@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 11
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "WPF Text Editor", "WPF Text Editor.vbproj", "{FE8EAA26-A7F2-4E01-A806-829DAF0B3B7A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE8EAA26-A7F2-4E01-A806-829DAF0B3B7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE8EAA26-A7F2-4E01-A806-829DAF0B3B7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE8EAA26-A7F2-4E01-A806-829DAF0B3B7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE8EAA26-A7F2-4E01-A806-829DAF0B3B7A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

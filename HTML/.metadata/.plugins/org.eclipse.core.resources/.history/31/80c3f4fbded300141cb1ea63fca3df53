@@ -1,0 +1,12 @@
+@pi=Math::PI
+
+
+class Area
+      def self.new(shape,r)
+        if shape=='circle'
+            return "Area of circle is : #{@pi*r*r}"
+        end
+      end
+end
+
+circle= Area.new('circle',18.2)

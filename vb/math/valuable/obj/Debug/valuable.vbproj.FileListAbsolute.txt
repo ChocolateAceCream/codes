@@ -1,0 +1,14 @@
+C:\Users\Di\AppData\Local\Temporary Projects\valuable\bin\Debug\valuable.exe.config
+C:\Users\Di\AppData\Local\Temporary Projects\valuable\bin\Debug\valuable.exe
+C:\Users\Di\AppData\Local\Temporary Projects\valuable\bin\Debug\valuable.pdb
+C:\Users\Di\AppData\Local\Temporary Projects\valuable\bin\Debug\valuable.xml
+C:\Users\Di\AppData\Local\Temporary Projects\valuable\obj\Debug\valuable.Form1.resources
+C:\Users\Di\AppData\Local\Temporary Projects\valuable\obj\Debug\valuable.Resources.resources
+C:\Users\Di\AppData\Local\Temporary Projects\valuable\obj\Debug\valuable.vbproj.GenerateResource.Cache
+C:\Users\Di\AppData\Local\Temporary Projects\valuable\obj\Debug\valuable.exe
+C:\Users\Di\AppData\Local\Temporary Projects\valuable\obj\Debug\valuable.xml
+C:\Users\Di\AppData\Local\Temporary Projects\valuable\obj\Debug\valuable.pdb
+C:\Users\Di\Desktop\vb\math\valuable\bin\Debug\valuable.exe.config
+C:\Users\Di\Desktop\vb\math\valuable\obj\Debug\valuable.exe
+C:\Users\Di\Desktop\vb\math\valuable\obj\Debug\valuable.xml
+C:\Users\Di\Desktop\vb\math\valuable\obj\Debug\valuable.pdb

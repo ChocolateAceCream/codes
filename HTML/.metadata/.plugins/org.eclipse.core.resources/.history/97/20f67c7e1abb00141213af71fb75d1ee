@@ -1,0 +1,15 @@
+left=Hash.new
+left["aadsf"]=123
+left["aa"]=456
+  p left
+s=left.shift
+p s
+k=s.keys.to_s
+p k
+
+
+
+  if k.length<=1
+    puts"single"
+    
+  end

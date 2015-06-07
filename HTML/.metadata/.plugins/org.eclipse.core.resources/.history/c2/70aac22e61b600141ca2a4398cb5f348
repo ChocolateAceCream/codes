@@ -1,0 +1,35 @@
+100.times do
+  puts Random.rand(1)
+end
+=begin
+count = Array.new(0)
+queue = Array.new(0)
+count[0]='a'
+count[1]='b'
+queue[0]=0
+queue[2]=nil
+queue[1]=1
+queue[3]=4
+
+puts count[queue[1]]
+
+
+if count.include?(nil) == true
+  puts "not full"
+else 
+  puts "full"
+end
+sleep 2
+puts 'a'
+
+puts "enter enter to continue\n enter 2 to exit"
+input = gets
+while input != 1
+  input = gets
+  if input == 1
+    abort("exit")
+  end
+end
+=end
+
+

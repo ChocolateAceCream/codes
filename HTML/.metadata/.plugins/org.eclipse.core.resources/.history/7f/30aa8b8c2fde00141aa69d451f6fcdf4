@@ -1,0 +1,6 @@
+module Suqare
+  
+    def length(r)
+      return 4*r
+    end
+end

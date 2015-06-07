@@ -1,0 +1,34 @@
+C:\Users\bry.000\Documents\Visual Studio 11\Projects\Chapter 12\Favorites Tray\bin\Debug\Favorites Tray.exe.config
+C:\Users\bry.000\Documents\Visual Studio 11\Projects\Chapter 12\Favorites Tray\bin\Debug\Favorites Tray.exe
+C:\Users\bry.000\Documents\Visual Studio 11\Projects\Chapter 12\Favorites Tray\bin\Debug\Favorites Tray.pdb
+C:\Users\bry.000\Documents\Visual Studio 11\Projects\Chapter 12\Favorites Tray\bin\Debug\Favorites Tray.xml
+C:\Users\bry.000\Documents\Visual Studio 11\Projects\Chapter 12\Favorites Tray\obj\Debug\Favorites_Tray.Form1.resources
+C:\Users\bry.000\Documents\Visual Studio 11\Projects\Chapter 12\Favorites Tray\obj\Debug\Favorites_Tray.Resources.resources
+C:\Users\bry.000\Documents\Visual Studio 11\Projects\Chapter 12\Favorites Tray\obj\Debug\Favorites Tray.vbproj.GenerateResource.Cache
+C:\Users\bry.000\Documents\Visual Studio 11\Projects\Chapter 12\Favorites Tray\obj\Debug\Favorites Tray.exe
+C:\Users\bry.000\Documents\Visual Studio 11\Projects\Chapter 12\Favorites Tray\obj\Debug\Favorites Tray.xml
+C:\Users\bry.000\Documents\Visual Studio 11\Projects\Chapter 12\Favorites Tray\obj\Debug\Favorites Tray.pdb
+C:\Users\bry.000\Documents\Visual Studio 11\Projects\Chapter 13\Favorites Tray\bin\Debug\Favorites Tray.exe.config
+C:\Users\bry.000\Documents\Visual Studio 11\Projects\Chapter 13\Favorites Tray\obj\Debug\Favorites Tray.exe
+C:\Users\bry.000\Documents\Visual Studio 11\Projects\Chapter 13\Favorites Tray\obj\Debug\Favorites Tray.xml
+C:\Users\bry.000\Documents\Visual Studio 11\Projects\Chapter 13\Favorites Tray\obj\Debug\Favorites Tray.pdb
+C:\Users\bry.000\Documents\Visual Studio 11\Projects\Chapter 13\Favorites Tray\bin\Debug\Favorites Tray.exe
+C:\Users\bry.000\Documents\Visual Studio 11\Projects\Chapter 13\Favorites Tray\bin\Debug\Favorites Tray.pdb
+C:\Users\bry.000\Documents\Visual Studio 11\Projects\Chapter 13\Favorites Tray\bin\Debug\Favorites Tray.xml
+C:\Users\bry.000\Documents\Visual Studio 11\Projects\Chapter 13\Favorites Tray\bin\Debug\Internet Favorites.dll
+C:\Users\bry.000\Documents\Visual Studio 11\Projects\Chapter 13\Favorites Tray\obj\Debug\Favorites Tray.vbprojResolveAssemblyReference.cache
+C:\Users\bry.000\Documents\Visual Studio 11\Projects\Chapter 13\Favorites Tray\obj\Debug\Favorites_Tray.Form1.resources
+C:\Users\bry.000\Documents\Visual Studio 11\Projects\Chapter 13\Favorites Tray\obj\Debug\Favorites_Tray.Resources.resources
+C:\Users\bry.000\Documents\Visual Studio 11\Projects\Chapter 13\Favorites Tray\obj\Debug\Favorites Tray.vbproj.GenerateResource.Cache
+C:\Users\bryan_000\Documents\WROX\WROX\VB_2012\99 Code for finalization\311813 Beg VB 2012\Chapter13\Favorites Tray\bin\Debug\Favorites Tray.exe.config
+C:\Users\bryan_000\Documents\WROX\WROX\VB_2012\99 Code for finalization\311813 Beg VB 2012\Chapter13\Favorites Tray\obj\Debug\Favorites Tray.exe
+C:\Users\bryan_000\Documents\WROX\WROX\VB_2012\99 Code for finalization\311813 Beg VB 2012\Chapter13\Favorites Tray\obj\Debug\Favorites Tray.xml
+C:\Users\bryan_000\Documents\WROX\WROX\VB_2012\99 Code for finalization\311813 Beg VB 2012\Chapter13\Favorites Tray\obj\Debug\Favorites Tray.pdb
+C:\Users\bryan_000\Documents\WROX\WROX\VB_2012\99 Code for finalization\311813 Beg VB 2012\Chapter13\Favorites Tray\bin\Debug\Favorites Tray.exe
+C:\Users\bryan_000\Documents\WROX\WROX\VB_2012\99 Code for finalization\311813 Beg VB 2012\Chapter13\Favorites Tray\bin\Debug\Favorites Tray.pdb
+C:\Users\bryan_000\Documents\WROX\WROX\VB_2012\99 Code for finalization\311813 Beg VB 2012\Chapter13\Favorites Tray\bin\Debug\Favorites Tray.xml
+C:\Users\bryan_000\Documents\WROX\WROX\VB_2012\99 Code for finalization\311813 Beg VB 2012\Chapter13\Favorites Tray\obj\Debug\Favorites Tray.vbprojResolveAssemblyReference.cache
+C:\Users\bryan_000\Documents\WROX\WROX\VB_2012\99 Code for finalization\311813 Beg VB 2012\Chapter13\Favorites Tray\obj\Debug\Favorites_Tray.Form1.resources
+C:\Users\bryan_000\Documents\WROX\WROX\VB_2012\99 Code for finalization\311813 Beg VB 2012\Chapter13\Favorites Tray\obj\Debug\Favorites_Tray.Resources.resources
+C:\Users\bryan_000\Documents\WROX\WROX\VB_2012\99 Code for finalization\311813 Beg VB 2012\Chapter13\Favorites Tray\obj\Debug\Favorites_Tray.WebFavoriteMenuItem.resources
+C:\Users\bryan_000\Documents\WROX\WROX\VB_2012\99 Code for finalization\311813 Beg VB 2012\Chapter13\Favorites Tray\obj\Debug\Favorites Tray.vbproj.GenerateResource.Cache

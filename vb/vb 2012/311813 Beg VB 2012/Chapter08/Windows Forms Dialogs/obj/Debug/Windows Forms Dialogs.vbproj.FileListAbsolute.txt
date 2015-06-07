@@ -1,0 +1,10 @@
+C:\Users\Di\Desktop\vb 2012\311813 Beg VB 2012\Chapter08\Windows Forms Dialogs\bin\Debug\Windows Forms Dialogs.exe.config
+C:\Users\Di\Desktop\vb 2012\311813 Beg VB 2012\Chapter08\Windows Forms Dialogs\bin\Debug\Windows Forms Dialogs.exe
+C:\Users\Di\Desktop\vb 2012\311813 Beg VB 2012\Chapter08\Windows Forms Dialogs\bin\Debug\Windows Forms Dialogs.pdb
+C:\Users\Di\Desktop\vb 2012\311813 Beg VB 2012\Chapter08\Windows Forms Dialogs\bin\Debug\Windows Forms Dialogs.xml
+C:\Users\Di\Desktop\vb 2012\311813 Beg VB 2012\Chapter08\Windows Forms Dialogs\obj\Debug\Windows_Forms_Dialogs.Dialogs.resources
+C:\Users\Di\Desktop\vb 2012\311813 Beg VB 2012\Chapter08\Windows Forms Dialogs\obj\Debug\Windows_Forms_Dialogs.Resources.resources
+C:\Users\Di\Desktop\vb 2012\311813 Beg VB 2012\Chapter08\Windows Forms Dialogs\obj\Debug\Windows Forms Dialogs.vbproj.GenerateResource.Cache
+C:\Users\Di\Desktop\vb 2012\311813 Beg VB 2012\Chapter08\Windows Forms Dialogs\obj\Debug\Windows Forms Dialogs.exe
+C:\Users\Di\Desktop\vb 2012\311813 Beg VB 2012\Chapter08\Windows Forms Dialogs\obj\Debug\Windows Forms Dialogs.xml
+C:\Users\Di\Desktop\vb 2012\311813 Beg VB 2012\Chapter08\Windows Forms Dialogs\obj\Debug\Windows Forms Dialogs.pdb

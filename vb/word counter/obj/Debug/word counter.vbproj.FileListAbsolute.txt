@@ -1,0 +1,11 @@
+C:\Users\Di\AppData\Local\Temporary Projects\word counter\bin\Debug\word counter.exe.config
+C:\Users\Di\Desktop\vb\word counter\bin\Debug\word counter.exe.config
+C:\Users\Di\Desktop\vb\word counter\obj\Debug\word_counter.Form1.resources
+C:\Users\Di\Desktop\vb\word counter\obj\Debug\word_counter.Resources.resources
+C:\Users\Di\Desktop\vb\word counter\obj\Debug\word counter.vbproj.GenerateResource.Cache
+C:\Users\Di\Desktop\vb\word counter\bin\Debug\word counter.exe
+C:\Users\Di\Desktop\vb\word counter\bin\Debug\word counter.pdb
+C:\Users\Di\Desktop\vb\word counter\bin\Debug\word counter.xml
+C:\Users\Di\Desktop\vb\word counter\obj\Debug\word counter.exe
+C:\Users\Di\Desktop\vb\word counter\obj\Debug\word counter.xml
+C:\Users\Di\Desktop\vb\word counter\obj\Debug\word counter.pdb

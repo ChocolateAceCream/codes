@@ -1,0 +1,11 @@
+eclipse.preferences.version=1
+org.eclipse.debug.ui.PREF_CHANGED_VALUE_BACKGROUND=245,196,17
+org.eclipse.debug.ui.PREF_LAUNCH_PERSPECTIVES=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?>\n<launchPerspectives>\n<launchPerspective configurationType\="org.eclipse.dltk.ruby.launching.RubyLaunchConfigurationType" delegate\="org.eclipse.dltk.ruby.launching.RubyLaunchConfigurationType" mode\="debug" perspective\="org.eclipse.dltk.ruby.ui.RubyPerspective"/>\n<launchPerspective configurationType\="org.eclipse.dltk.ruby.launching.RubyLaunchConfigurationType" delegate\="org.eclipse.dltk.ruby.launching.RubyLaunchConfigurationType" mode\="run" perspective\="org.eclipse.dltk.ruby.ui.RubyPerspective"/>\n<launchPerspective configurationType\="org.eclipse.ui.externaltools.ProgramLaunchConfigurationType" delegate\="org.eclipse.ui.externaltools.ProgramLaunchConfigurationType" mode\="run" perspective\="org.eclipse.dltk.ruby.ui.RubyPerspective"/>\n</launchPerspectives>\n
+org.eclipse.debug.ui.cancel_launch_with_compile_errors=always
+org.eclipse.debug.ui.consoleBackground=16,16,32
+org.eclipse.debug.ui.errorColor=0,255,0
+org.eclipse.debug.ui.inColor=208,208,208
+org.eclipse.debug.ui.outColor=208,208,208
+org.eclipse.debug.ui.save_dirty_editors_before_launch=never
+org.eclispe.debug.ui.Debug_view.debug_toolbar_hidden_perspectives=org.eclipse.ptp.debug.ui.PTPDebugPerspective
+preferredTargets=org.eclipse.cdt.debug.ui.toggleCBreakpointTarget,org.eclipse.cdt.debug.ui.toggleCDynamicPrintfTarget,org.eclipse.ptp.debug.parallel.breakpoint\:org.eclipse.ptp.debug.parallel.breakpoint|org.eclipse.ptp.debug.parallel.breakpoint\:org.eclipse.ptp.debug.parallel.breakpoint|default,org.eclipse.ptp.debug.parallel.breakpoint\:default|

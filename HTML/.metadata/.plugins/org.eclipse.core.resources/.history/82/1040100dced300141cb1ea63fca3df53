@@ -1,0 +1,4 @@
+pi=Math::PI
+p pi
+
+p pi.to_s.length

@@ -1,0 +1,4 @@
+pi=Math::PI
+p pi
+area=pi*14.8*14.8
+p pi.to_s.length

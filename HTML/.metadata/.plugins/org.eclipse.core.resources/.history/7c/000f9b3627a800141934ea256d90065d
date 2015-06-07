@@ -1,0 +1,4 @@
+line = gets
+if line=~ /GG|gg/
+  puts "#{line}"
+end

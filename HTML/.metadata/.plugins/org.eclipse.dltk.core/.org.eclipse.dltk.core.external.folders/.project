@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>.org.eclipse.dltk.core.external.folders</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+	</buildSpec>
+	<natures>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>.link10</name>
+			<type>2</type>
+			<location>/usr/lib/ruby</location>
+		</link>
+		<link>
+			<name>.link6</name>
+			<type>2</type>
+			<location>/usr/share/ruby/vendor_ruby</location>
+		</link>
+		<link>
+			<name>.link7</name>
+			<type>2</type>
+			<location>/usr/lib/ruby/vendor_ruby</location>
+		</link>
+		<link>
+			<name>.link8</name>
+			<type>2</type>
+			<location>/usr/share/rubygems</location>
+		</link>
+		<link>
+			<name>.link9</name>
+			<type>2</type>
+			<location>/usr/share/ruby</location>
+		</link>
+	</linkedResources>
+</projectDescription>

@@ -1,0 +1,10 @@
+fino=Enumerator.new do |value|
+    n1=1
+    n2=1
+    loop do
+         value.yield n1
+         n1,n2=n1+n2,n1
+    end
+end
+
+p fino.first(15)

@@ -1,0 +1,33 @@
+fino=Enumerator.new do |value|
+    n1=1
+    n2=1
+    loop do
+         value.yield n1
+         n1,n2=n1+n2,n1
+    end
+end
+
+class Enumerator
+      def infinite_select(&block)
+      
+      Enumerator.new do |yielder|
+        self.each do |value|
+        yielder.yield value if block.call(value)
+        end
+      end
+      end
+end
+
+
+p fino.infinite_select {|val| val.to_s =~ /19880817/ }.infinite_select{|val| val % 10 == 0}.first(2)
+  
+class Enumerator
+      def infinite_select(&block)
+      Enumerator.new do |yielder|
+          self.each do |value|
+                    yielder.yield value if block.call(value)
+                    end
+          end
+      end
+end
+p fino.infinite_select {|val| val.to_s =~ /3/ }.infinite_select {|val| val % 10 == 0}.first(5)

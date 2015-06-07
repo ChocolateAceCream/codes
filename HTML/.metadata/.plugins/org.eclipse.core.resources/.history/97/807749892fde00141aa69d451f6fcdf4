@@ -1,0 +1,13 @@
+require_relative 'suqare'
+
+module Circle
+    PI=3.1415926
+    def Circle.length (pi)
+      return 2*pi       
+    end
+end
+
+
+
+simple=Circle.length(Circle::PI)
+p simple

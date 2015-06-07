@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<server port="8080">
+  <module context="HTML_Demo" name="HTML Demo" path="/home/di/Desktop/HTML/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/HTML Demo" type="static"/>
+  <module context="tomecat" name="tomecat" path="/home/di/Desktop/HTML/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/tomecat" type="static"/>
+  <module context="HTML5" name="HTML5" path="/home/di/Desktop/HTML/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/HTML5" type="static"/>
+</server>

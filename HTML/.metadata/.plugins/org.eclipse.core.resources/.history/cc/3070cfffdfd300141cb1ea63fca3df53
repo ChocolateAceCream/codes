@@ -1,0 +1,14 @@
+@pi=Math::PI
+
+
+class Area
+      def self.new(shape)
+        if shape=='circle'
+            puts "input r"
+            r=get.chomp
+            Circle.new(r)
+        end
+      end
+end
+
+circle=Area.new

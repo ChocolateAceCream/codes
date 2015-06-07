@@ -1,0 +1,15 @@
+C:\Users\Di\AppData\Local\Temporary Projects\WPF Word Counter\bin\Debug\WPF Word Counter.exe.config
+C:\Users\Di\Desktop\vb\WPF Word Counter\bin\Debug\WPF Word Counter.exe.config
+C:\Users\Di\Desktop\vb\WPF Word Counter\bin\Debug\WPF Word Counter.exe
+C:\Users\Di\Desktop\vb\WPF Word Counter\bin\Debug\WPF Word Counter.pdb
+C:\Users\Di\Desktop\vb\WPF Word Counter\bin\Debug\WPF Word Counter.xml
+C:\Users\Di\Desktop\vb\WPF Word Counter\obj\Debug\MainWindow.baml
+C:\Users\Di\Desktop\vb\WPF Word Counter\obj\Debug\MainWindow.g.vb
+C:\Users\Di\Desktop\vb\WPF Word Counter\obj\Debug\Application.g.vb
+C:\Users\Di\Desktop\vb\WPF Word Counter\obj\Debug\WPF Word Counter_MarkupCompile.cache
+C:\Users\Di\Desktop\vb\WPF Word Counter\obj\Debug\WPF Word Counter.g.resources
+C:\Users\Di\Desktop\vb\WPF Word Counter\obj\Debug\WPF_Word_Counter.Resources.resources
+C:\Users\Di\Desktop\vb\WPF Word Counter\obj\Debug\WPF Word Counter.vbproj.GenerateResource.Cache
+C:\Users\Di\Desktop\vb\WPF Word Counter\obj\Debug\WPF Word Counter.exe
+C:\Users\Di\Desktop\vb\WPF Word Counter\obj\Debug\WPF Word Counter.xml
+C:\Users\Di\Desktop\vb\WPF Word Counter\obj\Debug\WPF Word Counter.pdb

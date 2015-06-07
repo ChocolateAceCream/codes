@@ -1,0 +1,11 @@
+C:\Users\Di\AppData\Local\Temporary Projects\dialogs\bin\Debug\dialogs.exe.config
+C:\Users\Di\Desktop\vb\dialogs\dialogs\bin\Debug\dialogs.exe.config
+C:\Users\Di\Desktop\vb\dialogs\dialogs\obj\Debug\dialogs.Dialogs.resources
+C:\Users\Di\Desktop\vb\dialogs\dialogs\obj\Debug\dialogs.Resources.resources
+C:\Users\Di\Desktop\vb\dialogs\dialogs\obj\Debug\dialogs.vbproj.GenerateResource.Cache
+C:\Users\Di\Desktop\vb\dialogs\dialogs\bin\Debug\dialogs.exe
+C:\Users\Di\Desktop\vb\dialogs\dialogs\bin\Debug\dialogs.pdb
+C:\Users\Di\Desktop\vb\dialogs\dialogs\bin\Debug\dialogs.xml
+C:\Users\Di\Desktop\vb\dialogs\dialogs\obj\Debug\dialogs.exe
+C:\Users\Di\Desktop\vb\dialogs\dialogs\obj\Debug\dialogs.xml
+C:\Users\Di\Desktop\vb\dialogs\dialogs\obj\Debug\dialogs.pdb

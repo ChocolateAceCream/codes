@@ -1,0 +1,13 @@
+class Baba
+   def initialize (name)
+       @name= name
+   end
+end
+
+pa= Baba.new("Jone")
+puts pa.name
+
+class Son<Baba
+   
+end
+

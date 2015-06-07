@@ -1,0 +1,11 @@
+C:\Users\Di\AppData\Local\Temporary Projects\Shared Demo\bin\Debug\Shared Demo.exe.config
+C:\Users\Di\Desktop\vb\Shared demo\Shared Demo\bin\Debug\Shared Demo.exe.config
+C:\Users\Di\Desktop\vb\Shared demo\Shared Demo\bin\Debug\Shared Demo.exe
+C:\Users\Di\Desktop\vb\Shared demo\Shared Demo\bin\Debug\Shared Demo.pdb
+C:\Users\Di\Desktop\vb\Shared demo\Shared Demo\bin\Debug\Shared Demo.xml
+C:\Users\Di\Desktop\vb\Shared demo\Shared Demo\obj\Debug\Shared_Demo.Form1.resources
+C:\Users\Di\Desktop\vb\Shared demo\Shared Demo\obj\Debug\Shared_Demo.Resources.resources
+C:\Users\Di\Desktop\vb\Shared demo\Shared Demo\obj\Debug\Shared Demo.vbproj.GenerateResource.Cache
+C:\Users\Di\Desktop\vb\Shared demo\Shared Demo\obj\Debug\Shared Demo.exe
+C:\Users\Di\Desktop\vb\Shared demo\Shared Demo\obj\Debug\Shared Demo.xml
+C:\Users\Di\Desktop\vb\Shared demo\Shared Demo\obj\Debug\Shared Demo.pdb

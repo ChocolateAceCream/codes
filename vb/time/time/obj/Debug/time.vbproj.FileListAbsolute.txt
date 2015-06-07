@@ -1,0 +1,20 @@
+C:\Users\Di\AppData\Local\Temporary Projects\time\bin\Debug\time.exe.config
+C:\Users\Di\AppData\Local\Temporary Projects\time\bin\Debug\time.exe
+C:\Users\Di\AppData\Local\Temporary Projects\time\bin\Debug\time.pdb
+C:\Users\Di\AppData\Local\Temporary Projects\time\bin\Debug\time.xml
+C:\Users\Di\AppData\Local\Temporary Projects\time\obj\Debug\time.Form1.resources
+C:\Users\Di\AppData\Local\Temporary Projects\time\obj\Debug\time.Resources.resources
+C:\Users\Di\AppData\Local\Temporary Projects\time\obj\Debug\time.vbproj.GenerateResource.Cache
+C:\Users\Di\AppData\Local\Temporary Projects\time\obj\Debug\time.exe
+C:\Users\Di\AppData\Local\Temporary Projects\time\obj\Debug\time.xml
+C:\Users\Di\AppData\Local\Temporary Projects\time\obj\Debug\time.pdb
+C:\Users\Di\Desktop\vb\time\time\bin\Debug\time.exe.config
+C:\Users\Di\Desktop\vb\time\time\obj\Debug\time.exe
+C:\Users\Di\Desktop\vb\time\time\obj\Debug\time.xml
+C:\Users\Di\Desktop\vb\time\time\obj\Debug\time.pdb
+C:\Users\Di\Desktop\vb\time\time\bin\Debug\time.exe
+C:\Users\Di\Desktop\vb\time\time\bin\Debug\time.pdb
+C:\Users\Di\Desktop\vb\time\time\bin\Debug\time.xml
+C:\Users\Di\Desktop\vb\time\time\obj\Debug\time.Form1.resources
+C:\Users\Di\Desktop\vb\time\time\obj\Debug\time.Resources.resources
+C:\Users\Di\Desktop\vb\time\time\obj\Debug\time.vbproj.GenerateResource.Cache

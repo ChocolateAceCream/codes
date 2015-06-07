@@ -1,0 +1,44 @@
+module Debug
+    def who
+        p "#{self.class.name} (id: #{self.object_id}):#{self.name}"
+    end
+end
+
+class Baba
+   include Debug
+  #attr_reader :name
+   def initialize (name)
+       @name= name
+ #      puts "#{@name} #{self}"
+   end
+   def to_s
+    #  "Name is #{@name}"
+   end
+end
+
+#puts Baba
+
+pa= Baba.new("Jone")
+#puts pa
+p pa.who
+
+
+class Son<Baba
+
+    def to_s
+      super
+    end
+end
+
+papa=Son.new("joe")
+papa.who
+  
+p papa
+
+ 
+=begin
+puts Son.superclass
+puts Baba.superclass
+puts Baba.superclass.superclass
+puts Baba.superclass.superclass.superclass
+=end

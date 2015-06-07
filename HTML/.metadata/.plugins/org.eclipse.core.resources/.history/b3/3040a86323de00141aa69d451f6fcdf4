@@ -1,0 +1,25 @@
+require 'gserver'
+
+class LogServer < GServer
+  
+        def initialize( ip, port )
+            @server = TCPServer.open( ip, port )
+        end
+
+    def server(client)
+        clients.puts get_end_of_log_file
+    end
+    
+    private 
+    
+    def get_end_of_log_file
+        File.open("/home/Desktop/test.log") do |log|
+          log.seek(-500,IO::SEEK_END) # back up 500 characters from end
+          log.gets                    # ignore partial line
+          log.read                    # and return rest
+        end
+    end
+end
+
+server1=LogServer.new('localhost',3006)
+server1.start.join

@@ -1,0 +1,21 @@
+@pi=Math::PI
+
+class Area
+      def self.new(shape)
+        if shape=='Circle'
+            r=18.2
+            area=r*r*Math::PI
+            puts "area of circle with radius=18.2 is #{area}"          
+        end
+        
+        if shape=='R=14.8'
+            r=14.8
+            area=r*r*Math::PI
+            printf("area of circle with radius=14.8 is %7.4f",area)
+           
+        end
+      end
+end
+
+Area.new('Circle')
+Area.new('R=14.8')

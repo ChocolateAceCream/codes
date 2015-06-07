@@ -1,0 +1,14 @@
+C:\Users\Di\Desktop\vb 2012\311813 Beg VB 2012\Chapter10\Debugging\bin\Debug\Debugging.exe.config
+C:\Users\Di\Desktop\vb 2012\311813 Beg VB 2012\Chapter10\Debugging\bin\Debug\Debugging.exe
+C:\Users\Di\Desktop\vb 2012\311813 Beg VB 2012\Chapter10\Debugging\bin\Debug\Debugging.pdb
+C:\Users\Di\Desktop\vb 2012\311813 Beg VB 2012\Chapter10\Debugging\bin\Debug\Debugging.xml
+C:\Users\Di\Desktop\vb 2012\311813 Beg VB 2012\Chapter10\Debugging\obj\Debug\Debugging.Debug.resources
+C:\Users\Di\Desktop\vb 2012\311813 Beg VB 2012\Chapter10\Debugging\obj\Debug\Debugging.Resources.resources
+C:\Users\Di\Desktop\vb 2012\311813 Beg VB 2012\Chapter10\Debugging\obj\Debug\Debugging.vbproj.GenerateResource.Cache
+C:\Users\Di\Desktop\vb 2012\311813 Beg VB 2012\Chapter10\Debugging\obj\Debug\Debugging.exe
+C:\Users\Di\Desktop\vb 2012\311813 Beg VB 2012\Chapter10\Debugging\obj\Debug\Debugging.xml
+C:\Users\Di\Desktop\vb 2012\311813 Beg VB 2012\Chapter10\Debugging\obj\Debug\Debugging.pdb
+C:\Users\Di\Desktop\vb\Debugging\bin\Debug\Debugging.exe.config
+C:\Users\Di\Desktop\vb\Debugging\obj\Debug\Debugging.exe
+C:\Users\Di\Desktop\vb\Debugging\obj\Debug\Debugging.xml
+C:\Users\Di\Desktop\vb\Debugging\obj\Debug\Debugging.pdb

@@ -1,0 +1,31 @@
+class Baba
+   def initialize (name)
+       @name= name
+       puts "#{@name} #{self}"
+   end
+   def to_s
+      "Name is #{@name}"
+   end
+end
+
+puts Baba
+
+pa= Baba.new("Jone")
+puts pa
+
+
+class Son<Baba
+   
+end
+
+papa=Son.new("joe")
+    def initialize 
+        @value=23
+    end
+p papa
+=begin
+puts Son.superclass
+puts Baba.superclass
+puts Baba.superclass.superclass
+puts Baba.superclass.superclass.superclass
+=end

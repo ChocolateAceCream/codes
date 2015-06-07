@@ -1,0 +1,169 @@
+<%@ page language="java" import="java.util.*" pageEncoding="UTF-8"%>
+<%
+String path = request.getContextPath();
+String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.getServerPort()+path+"/";
+%>
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+  <head>
+    <base href="<%=basePath%>">
+    
+    <title>Rose Love from this moment</title>
+    
+	<meta http-equiv="pragma" content="no-cache">
+	<meta http-equiv="cache-control" content="no-cache">
+	<meta http-equiv="expires" content="0">    
+	<meta http-equiv="keywords" content="keyword1,keyword2,keyword3">
+	<meta http-equiv="description" content="This is my page">
+	<link rel="shortcut icon" href="<%=path%>/images/ico/15.png" type="image/x-icon" />
+	<!--
+	<link rel="stylesheet" type="text/css" href="styles.css">
+	-->
+	<script type="text/javascript" src="http://code.jquery.com/jquery-1.10.1.min.js"></script>
+    <script type="text/javascript" src="http://code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+    
+ <style type="text/css">
+.inputKey{
+	float:right;
+	margin-right:10px;
+	margin-top:10px;
+	border:2px solid #009;
+}
+
+.inputKey .input{
+	float:left;
+     height:26px;
+    line-height:26px;
+    font-size:14px;
+    border:0px solid #F60;
+}
+.inputKey .button{
+	float:left;
+
+	width:60px;
+	height:26px;
+	line-height:20px;
+    text-align:center; 
+    background:#009;
+    color:#fff;
+    font-size:14px;
+    border:0;
+}
+
+.inputKey .button:hover{
+	float:left;
+
+	width:60px;
+	height:26px;
+	line-height:20px;
+    text-align:center; 
+    background:#001;
+    color:#fff;
+    font-size:14px;
+    border:0;
+}
+
+#content{
+  width:300px;
+  height:60px;
+  margin:auto;
+  /* margin-top:400px; */
+}
+
+#imgico{
+  width:300px;
+  height:300px;
+  margin:auto;
+  margin-top:100px;
+}
+#imgico .img1 {
+     float:left;
+     width:120px;
+     height:300px;
+	/* background-attachment: fixed; */
+	background-image: url(<%=path%>/images/roseimg/14.png);
+	background-repeat: no-repeat;
+	background-position: 0 160;
+}
+#imgico .img2 {
+    float:right;
+    width:150px;
+    height:300px;
+	/* background-attachment: fixed; */
+	background-image: url(<%=path%>/images/roseimg/2.png);
+	background-repeat: no-repeat;
+	background-position: 0 90;
+}
+.cuetext{
+   float:left;
+   border:0px solid #F60;
+   margin-top:270px;
+   color:red;
+   font-size:20px;
+}
+#prompt{
+  width:300px;
+  height:40px;
+  margin:auto;
+  margin-top:0px;
+}
+#prompttext{
+  height:40px;
+  margin:auto;
+  margin-top:0px;
+  text-align:center;
+}
+ </style>
+
+  </head>
+  
+  <body>
+  
+  <div id="imgico">
+     <div class="img1"></div>
+     <div class="img2"><p class="cuetext">?,?????!</p></div>
+  </div>
+
+  <div id="content"> 
+   <div class="inputKey">
+    <form action="#" method="post" name="form1">
+           <input type="password" name="keyword" id="keyword" class="input" size="30px"/>
+         <input type="button" id="bt1" value="??" class="button" />
+     </form>
+    </div>
+   </div>
+   
+   <div id="prompt">
+      <input type="hidden" id="count" name="count" value="0"/>
+      <p id="prompttext" style="color:red"></p>
+    </div>
+  </body>
+</html>
+
+<script type="text/javascript">
+<!--
+   $("#bt1").click(function(){
+      var va=$("#keyword").val();
+	    
+          if(va==""){
+	         $("#prompttext").text("??????,???!");
+	       }else{
+
+	       $.post("save/keepdata",{pwd:$("#keyword").val(),count:$("#count").val()},function(data,textStatus){
+	       
+	          var jsonObj=eval("("+data+")");
+             $("#count").val(jsonObj.count);
+              $("#prompttext").text(jsonObj.text);
+
+	       });
+       }
+   });
+   
+   $("#keyword").focus(function(){
+     $("#prompttext").text("");
+     $("#keyword").val("");
+   });
+   
+//-->
+</script>

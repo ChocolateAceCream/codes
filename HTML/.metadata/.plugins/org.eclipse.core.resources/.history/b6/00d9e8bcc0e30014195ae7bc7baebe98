@@ -1,0 +1,14 @@
+puts"Please enter a sentence here=>\n"
+sentence= gets.chomp
+#p sentence
+character_list=[]
+
+senten=sentence.scan(/./)
+final_tree=[]
+count = Hash.new(0)
+total=0
+for character in senten
+    count[character]+=1
+    total+=1
+end
+sorted = count.sort_by{|character, count| count} 

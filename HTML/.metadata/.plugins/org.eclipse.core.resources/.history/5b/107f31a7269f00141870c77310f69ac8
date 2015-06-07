@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>DiDi's Home</title>
+	<link type="text/css" rel="stylesheet" href="style.css"/>
+
+	
+</head>
+<body>	
+
+	<div>button</div>>
+	
+	<h1>title1</h1>
+	<p>"paragraph 1"</p>
+	<h2>title2</h2>
+	<p>"parea2"</p>
+		<h3>title3</h3>
+	<p>"paragraph 3"</p>
+		<h4>title4</h4>
+	<p>"paragraph 4"</p>
+		<h5>title5</h5>
+	<p>"paragraph 5"</p>
+		<h6>title6</h6>
+	<p>"paragraph 6"</p>
+	
+<!-- make a word hyperlink -->
+	 <a href="http://www.nba.com">My Favorite Site!
+<!-- make an image as hyperlink -->
+	 	<img src="http://www.jpl.nasa.gov/spaceimages/images/mediumsize/PIA17011_ip.jpg"/>
+	</a>
+	<!-- insert an image -->
+	<img src = "http://www.jpl.nasa.gov/spaceimages/images/mediumsize/PIA17011_ip.jpg"/>
+
+
+<!-- make a order list -->
+
+<h1>List of my favorite things</h1>
+		<ol>
+			<li>Raindrops on roses</li>
+			<li>Whiskers on kittens</li>
+			<li>Bright copper kettles</li>
+			<li>Warm woolen mittens</li>
+		</ol>
+		<h2>List of things I find just ok.</h2>
+		<ol>
+		    <li>1</li>
+		    <li>2</li>
+		    <li>3</li>
+		</ol>
+
+<!-- make a Unordered lists -->
+
+		<ul>
+			 <li style="font-size: 33px">1</li>
+		
+		    <li>2</li>
+		    <li>3</li>
+		</ul>
+
+<!-- change a font size -->
+<p style="font-size: 12em"> content</p>
+<p style="font-size: 1em"> content</p>
+<p style="font-size: 12px"> content</p>
+
+
+<!-- change color -->
+<p style = "color:yellow">color</p>
+
+<!-- change both color and font size -->
+
+<p style = "color:yellow;font-size: 42px">color</p>
+
+<!-- change the font style -->
+<ol>
+<li style="font-family: Arial">Hello!</li>
+<li style="font-family: Impact">Hello!</li>
+<li style="font-family: Verdaa">Hello!</li>
+</ol>
+
+<!-- change the background color -->
+<p style = "background-color:yellow">color</p>
+
+<!-- align the text -->
+<ol>
+<li style="text-align:center">Hello!</li>
+<li style="text-align:right">Hello!</li>
+<li style="text-align:left">Hello!</li>
+</ol>
+
+
+<!-- bold world -->>
+<p>Do you hear the people <strong>sing</strong>?</p>
+		
+<!-- italicize words -->
+<p>Do you hear the people <em>sing</em>?</p>
+
+
+<!-- make table -->
+ <table style="border-collapse:collapse;">
+            <thead>
+                <tr>
+                    <th colspan="2" style = "color:red">Famous Monsters by Birth Year</th>
+                </tr>
+                <tr style="border-bottom:1px solid black;">
+                    <th style="padding:5px;"><em>Famous Monster</em></th>
+                    <th style="padding:5px;border-left:1px solid black;">Birth Year</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td style="padding:5px;">King Kong</td>
+                    <td style="padding:5px;border-left:1px solid black;">1933</td>     
+                </tr>
+                
+                <tr>
+                    <td style="padding:5px;">Dracula</td>
+                    <td style="padding:5px;border-left:1px solid black;">1897</td>
+                </tr>
+                
+                <tr>
+                    <td style="padding:5px;">Bride of Frankenstein</td>
+                    <td style="padding:5px;border-left:1px solid black;">1944</td>
+                </tr>
+            </tbody>
+        </table>
+
+<!-- division  -->
+<div ></div>
+		<div style="width:50px; height:50px; background-color:blue"></div>
+		<div style="width:50px; height:50px; background-color:green"></div>
+	<div style = "width:50px;height:50px;background-color:yellow"></div>
+		<a href="www.nba.com"><div style="width:50px; height:50px; background-color:yellow">fasdfa</div></a>
+	</body>
+	
+	<!-- span -->
+	<p>This text is black, except for the word <span style="color:red">red!</span></p>
+	<p>My favorite font is<span style = "font-family:Impact"> Impact </span>!</p>
+
+<!-- table -->
+<table>
+	<thead>
+	<th colspn="3">table head</th>
+	</thead>
+	<tr>
+	    <td><a href="http://www.nba.com"><img src="http://media.fyre.co/PQA8FRgSkOyJ2dLfnAbg_air-jordan-4-toro-bravo-12.jpg"/></a></td>
+	    <td><img src="http://sneakernews.com/wp-content/uploads/2014/07/air-jordan-future-prm-metallic-silver-release-reminder-01.jpg"/></td>
+	    <td><img src="http://nk_wp_media.s3.amazonaws.com/files/2014/04/air-jordan-6-carmine-1-copy.jpg"/></td>
+	</tr>
+	<tr>
+	    <td><img src="http://sites.psu.edu/jql5817/wp-content/uploads/sites/17077/2014/09/Air-Jordan-XIII-13-Retro-GS-Weiss-Rot_b3.jpg"/></td>
+	    <td><img src="http://5.kicksonfire.net/wp-content/uploads/2013/08/Air-Jordan-5-Retro-3LAB5-011.jpg"/></td>
+	    <td><img src="http://nk_wp_media.s3.amazonaws.com/files/2014/03/air-jordan-22-xx2-or-xxii-omega-white-varsity-red-black-325x218.jpg"/></td>
+	</tr>
+	<tr>
+	    <td><img src="http://5.kicksonfire.net/wp-content/uploads/2008/03/air-jordan-21-xx1-or-xxi-pe-white-metallic-silver-black-taxi-1.jpg"/></td>
+	    <td><img src="http://sneakernews.com/wp-content/uploads/2013/09/air-jordan-21-derek-anderson-houston-rockets-pe-3.jpg"/></td>
+	    <td><img src="http://s3.amazonaws.com/nk_wp_media/uploads/2011/05/AIR_JORDAN_XVII_WHITE_BLUE_2.jpeg"/></td>
+	</tr>
+	</table>	
+
+
+		<h3>I'm plain old font!</h3>
+		<div>
+			<h3 class="omg">Me, too!</h3>
+			<div>
+				<h3 id="testID">Me three!</h3>
+				<div>
+					<h3>Forget you guys. I'm about to be red!</h3>
+				</div>
+			</div>
+		</div>
+
+<a href"www.nba.com>nba</a>
+
+
+</body>
+</html>
