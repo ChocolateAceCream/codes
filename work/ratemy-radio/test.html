@@ -1,0 +1,53 @@
+<!--  ----------------------------------------------------------------------  -->
+<!--  NOTE: Please add the following <META> element to your page <HEAD>.      -->
+<!--  If necessary, please modify the charset parameter to specify the        -->
+<!--  character set of your HTML page.                                        -->
+<!--  ----------------------------------------------------------------------  -->
+
+<META HTTP-EQUIV="Content-type" CONTENT="text/html; charset=UTF-8">
+
+<!--  ----------------------------------------------------------------------  -->
+<!--  NOTE: Please add the following <FORM> element to your page.             -->
+<!--  ----------------------------------------------------------------------  -->
+
+<form action="https://www.salesforce.com/servlet/servlet.WebToLead?encoding=UTF-8" method="POST">
+
+<input type=hidden name="oid" value="00Dj0000001qNb6">
+<input type=hidden name="retURL" id="aurl" value="http://google.com">
+
+<!--  ----------------------------------------------------------------------  -->
+<!--  NOTE: These fields are optional debugging elements. Please uncomment    -->
+<!--  these lines if you wish to test in debug mode.                          -->
+<!--  <input type="hidden" name="debug" value=1>                              -->
+<!--  <input type="hidden" name="debugEmail"                                  -->
+<!--  value="stacy.willis@kalkiconsulting.com">                               -->
+<!--  ----------------------------------------------------------------------  -->
+
+<label for="first_name">First Name</label>
+<input  id="first_name" maxlength="40" name="first_name" size="20" type="text" /><br>
+<input id='score' type="hidden" name="Campaign_ID"  />
+
+
+
+<input  type="hidden" id="00Nj000000BAcsK" maxlength="15" name="00Nj000000BAcsK" size="20" type="text" /><br>
+
+<label for="last_name">Last Name</label>
+<input  type="hidden" id="last_name" maxlength="80" name="last_name" size="20" type="text"  /><br>
+<input   type="hidden" name="Campaign_ID" id="campid" />
+<input type="submit" name="submit" onClick="JavaScript:getID()">
+<script type="text/javascript">
+function getID(){
+	var elem1 = document.getElementById("00Nj000000BAcsK");
+	var elem2 = document.getElementById("first_name");
+									if (elem2.value =="low") {
+										elem1.setAttribute("value", "701j0000001U9cj");
+									}
+									if (elem2.value =="high") {
+										elem1.setAttribute("value", "701j0000001UAb3");
+									}
+									if (elem2.value =="medium") {
+										elem1.setAttribute("value", "701j0000001UAb8");
+									}
+}
+</script>
+</form>

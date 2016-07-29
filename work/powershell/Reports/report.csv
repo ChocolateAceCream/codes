@@ -1,0 +1,5 @@
+"MailboxCount","Server","LastFullBackup","DatabaseSize (GB)","DatabaseName","AverageMailboxSize (MB)"
+"130","CHHWS2","3/17/2016 8:12:03 PM","544.9091796875","Mailbox Database #2","4292.20769230769"
+"4","CHHWS2","3/17/2016 8:12:03 PM","0","JournalMailboxDatabase","0"
+"130","CHHWS2","3/17/2016 8:12:03 PM","551.7197265625","Mailbox Database #3","4345.85384615385"
+"95","CHHWS2","3/17/2016 8:12:03 PM","552.3212890625","MailboxDatabase1","5953.44210526316"

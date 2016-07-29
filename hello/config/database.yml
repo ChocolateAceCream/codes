@@ -1,0 +1,25 @@
+default: &default
+   adapter: postgresql
+   encoding: unicode
+   host: localhost
+  
+development:
+   adapter: postgresql
+   encoding: unicode
+   database: devise_development
+   username: di
+   password: di880817
+
+test:
+   adapter: postgresql
+   encoding: unicode
+   database: devise_test
+   username: di
+   password: di880817
+ 
+production:
+   adapter: postgresql
+   encoding: unicode
+   database: devise_production
+   username: di
+   password: di880817

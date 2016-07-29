@@ -1,0 +1,6 @@
+.eval not found, maybe you meant:
+
+Bundler#eval_gemspec
+Bundler#eval_yaml_gemspec
+Bundler::Dsl#eval_gemfile
+Bundler::Dsl::evaluate

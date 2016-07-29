@@ -1,0 +1,11 @@
+To find the documentation for a class, type ri ClassName. For example, the following is the
+summary information for the GC class. (To get a list of classes with ri documentation, type
+ri with no arguments.)
+$ ri GC
+-----------------------------------------------------------------------------------
+The GC module provides an interface to Ruby's garbage collection mechanism. Some of
+the underlying methods are also available via the ObjectSpace module.
+You may obtain information about the operation of the GC through GC::Profiler.
+-----------------------------------------------------------------------------------
+Class methods:
+count, disable, enable, malloc_

@@ -1,0 +1,14 @@
+Basic Types:
+1. oct: 0o1234
+	012341
+2. decimal: 0d1235
+3. hex: 0x1234
+4. binary: 0b1234
+Underscore characters are ignored in the digit string.
+
+String
+
+\uxxxx Unicode character
+e.g. 
+"Greek pi: \u03c0"	=>Greek pi: π
+"Greek \u{70 69 3a 20 3c0}"   =>Greek pi: π

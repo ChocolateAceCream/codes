@@ -1,0 +1,1 @@
+Get-ADComputer -Filter * -Properties *  | Sort LastLogonDate | FT Name, LastLogonDate -Autosize | Out-File C:\Temp\ComputerLastLogonDate.txt
