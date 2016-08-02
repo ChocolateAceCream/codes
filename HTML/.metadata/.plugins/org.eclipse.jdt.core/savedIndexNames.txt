@@ -1,5 +1,0 @@
-INDEX VERSION 1.127+/home/di/Desktop/HTML/.metadata/.plugins/org.eclipse.jdt.core
-2560735729.index
-2458310873.index
-2264789242.index
-3849801208.index

@@ -1,4 +1,0 @@
-pi=Math::PI
-p pi
-
-p pi.length

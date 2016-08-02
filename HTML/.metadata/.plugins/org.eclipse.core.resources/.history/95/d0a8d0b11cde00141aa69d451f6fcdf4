@@ -1,8 +1,0 @@
-class baba
-   def initialize (name)
-       @name= name
-   end
-end
-
-pa= baba.new("Jone")
-puts pa 

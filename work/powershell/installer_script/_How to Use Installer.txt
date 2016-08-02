@@ -1,9 +1,0 @@
-OPen CMD in "Administrator Mode" (Right clicking)
-
-Answer question prompts
-
-Error Code 0 = Install of component successful
-
-Install_Vx.bat will call ImageRIght_UpdateVx.bat
-
-ImageRIght_Update is the update required post IR5.7 Upgrade

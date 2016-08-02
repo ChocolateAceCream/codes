@@ -1,4 +1,0 @@
-pi=Math::PI
-p pi
-pi=3.1415926
-p pi.to_s.length

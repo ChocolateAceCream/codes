@@ -1,5 +1,0 @@
-pi=Math::PI
-p pi
-area=pi*14.8*14.8
-p area
-p pi.to_s.length

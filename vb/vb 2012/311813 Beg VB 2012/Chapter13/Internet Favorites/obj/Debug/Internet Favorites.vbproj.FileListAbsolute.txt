@@ -1,8 +1,0 @@
-C:\Users\bryan_000\Documents\WROX\WROX\VB_2012\99 Code for finalization\311813 Beg VB 2012\Chapter13\Internet Favorites\bin\Debug\Internet Favorites.dll
-C:\Users\bryan_000\Documents\WROX\WROX\VB_2012\99 Code for finalization\311813 Beg VB 2012\Chapter13\Internet Favorites\bin\Debug\Internet Favorites.pdb
-C:\Users\bryan_000\Documents\WROX\WROX\VB_2012\99 Code for finalization\311813 Beg VB 2012\Chapter13\Internet Favorites\bin\Debug\Internet Favorites.xml
-C:\Users\bryan_000\Documents\WROX\WROX\VB_2012\99 Code for finalization\311813 Beg VB 2012\Chapter13\Internet Favorites\obj\Debug\Internet_Favorites.Resources.resources
-C:\Users\bryan_000\Documents\WROX\WROX\VB_2012\99 Code for finalization\311813 Beg VB 2012\Chapter13\Internet Favorites\obj\Debug\Internet Favorites.vbproj.GenerateResource.Cache
-C:\Users\bryan_000\Documents\WROX\WROX\VB_2012\99 Code for finalization\311813 Beg VB 2012\Chapter13\Internet Favorites\obj\Debug\Internet Favorites.dll
-C:\Users\bryan_000\Documents\WROX\WROX\VB_2012\99 Code for finalization\311813 Beg VB 2012\Chapter13\Internet Favorites\obj\Debug\Internet Favorites.xml
-C:\Users\bryan_000\Documents\WROX\WROX\VB_2012\99 Code for finalization\311813 Beg VB 2012\Chapter13\Internet Favorites\obj\Debug\Internet Favorites.pdb

@@ -1,4 +1,0 @@
-File.open("number.rb").each do |line|
-  v1,v2=line.split
-  p v1+v2
-end

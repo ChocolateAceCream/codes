@@ -1,8 +1,0 @@
-C:\Users\Di\Desktop\vb\chpt13_InternetFavorites\Internet Favorites\bin\Debug\Internet Favorites.dll
-C:\Users\Di\Desktop\vb\chpt13_InternetFavorites\Internet Favorites\bin\Debug\Internet Favorites.pdb
-C:\Users\Di\Desktop\vb\chpt13_InternetFavorites\Internet Favorites\bin\Debug\Internet Favorites.xml
-C:\Users\Di\Desktop\vb\chpt13_InternetFavorites\Internet Favorites\obj\Debug\Internet_Favorites.Resources.resources
-C:\Users\Di\Desktop\vb\chpt13_InternetFavorites\Internet Favorites\obj\Debug\Internet Favorites.vbproj.GenerateResource.Cache
-C:\Users\Di\Desktop\vb\chpt13_InternetFavorites\Internet Favorites\obj\Debug\Internet Favorites.dll
-C:\Users\Di\Desktop\vb\chpt13_InternetFavorites\Internet Favorites\obj\Debug\Internet Favorites.xml
-C:\Users\Di\Desktop\vb\chpt13_InternetFavorites\Internet Favorites\obj\Debug\Internet Favorites.pdb

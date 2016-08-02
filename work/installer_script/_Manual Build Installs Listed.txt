@@ -1,8 +1,0 @@
-This document will be used in the even the script is not working. It will list out all the components required to complete the configuration of a build post image deployment.
-
-
-
-\\chhira\ImageWrt\install5\installs\IRDesktop.msi
-\\chhira\ImageWrt\install5\installs\IRDocCap.msi
-\\chhira\ImageWrt\install5\installs\IRMicrosoftAddin.msi
-\\chhira\ImageWrt\install5\installs\IRDocumentConverter.msi

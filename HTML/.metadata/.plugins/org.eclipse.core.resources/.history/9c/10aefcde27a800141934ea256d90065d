@@ -1,9 +1,0 @@
-line = gets
-if line=~ /GG+|g*/
-  puts "#{line}"
-end
-
-newline=line.sub(/GG/,'ff')
-puts newline
-newerline=line.gsub(/gg/,'FF')
-puts "#{newerline}"

@@ -1,1 +1,0 @@
-Invoke-Expression "./select.ps1 > log.txt"
